@@ -1,0 +1,7 @@
+com/amazonaws/dynamodb/bootstrap/SegmentedScanResultTest.class
+com/amazonaws/dynamodb/bootstrap/AttributeValueMixInTest.class
+com/amazonaws/dynamodb/bootstrap/BlockingQueueConsumerTest.class
+com/amazonaws/dynamodb/bootstrap/BlockingQueueWorkerTest.class
+com/amazonaws/dynamodb/bootstrap/DynamoDBBootstrapWorkerTest.class
+com/amazonaws/dynamodb/bootstrap/DynamoDBTableScanTest.class
+com/amazonaws/dynamodb/bootstrap/DynamoDBConsumerTest.class
